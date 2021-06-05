@@ -6,7 +6,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Microsoft Visio File Viewer & Converter Solution" h2="Desktop, On Premise APIs & Cloud REST SDKs to build native, web & cloud-based applications to view & export Visio drawings." logoImageSrc="https://www.aspose.cloud/templates/brand/images/diagram/aspose_diagram-brand.png" imageAlt="Aspose.Diagram Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Microsoft Visio File Viewer & Converter Solution" h2="Desktop, On Premise APIs & Cloud REST SDKs to build native, web & cloud-based applications to view & export Visio drawings." logoImageSrc="/headers/aspose_diagram-brand.png" imageAlt="Aspose.Diagram Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram Cloud APIs Include" >}}
