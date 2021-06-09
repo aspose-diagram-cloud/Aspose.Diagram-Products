@@ -11,43 +11,43 @@ url: /family
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud for cURL" imgSrc="/sdk/aspose_diagram-for-curl.png" productLink="/diagram/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud for cURL" imgSrc="/sdk/aspose_diagram-for-curl.png" productLink="/diagram/curl/" >}}
 Develop cURL based applications for cloud to view, convert & export Microsoft Visio documents.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_diagram-for-net.png" productLink="/diagram/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_diagram-for-net.png" productLink="/diagram/net/" >}}
 Build Microsoft Visio file viewer, converter & exporter cloud-based apps in C# or other .NET languages.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Java" imgSrc="/sdk/aspose_diagram-for-java.png" productLink="/diagram/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Java" imgSrc="/sdk/aspose_diagram-for-java.png" productLink="/diagram/java/" >}}
 Enhance your cloud-based Java applications to access Visio drawings hosted on the cloud for viewing & conversion.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_diagram-for-php.png" productLink="/diagram/php" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_diagram-for-php.png" productLink="/diagram/php/" >}}
 Build Microsoft Visio file viewer & converter cloud-based apps in PHP via simple Cloud REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Python" imgSrc="/sdk/aspose_diagram-for-python.png" productLink="/diagram/python" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Python" imgSrc="/sdk/aspose_diagram-for-python.png" productLink="/diagram/python/" >}}
 Easy to use Python Cloud SDK to access, view & convert Microsoft Visio diagrams in the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_diagram-for-ruby.png" productLink="/diagram/ruby" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_diagram-for-ruby.png" productLink="/diagram/ruby/" >}}
 Access Visio drawings & diagrams stored on the cloud for viewing & conversions from within your Ruby cloud apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_diagram-for-node.png" productLink="/diagram/nodejs" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_diagram-for-node.png" productLink="/diagram/python/" >}}
 Microsoft Visio drawing viewer, converter & uploader application development for the cloud platforms in Node.js via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Android" imgSrc="/sdk/aspose_diagram-for-android.png" productLink="/diagram/android" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Android" imgSrc="/sdk/aspose_diagram-for-android.png" productLink="/diagram/android/" >}}
 Develop Visio drawing viewer, exporter & converter apps for Android devices, using easy cloud REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Perl" imgSrc="/sdk/aspose_diagram-for-perl.png" productLink="/diagram/perl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Perl" imgSrc="/sdk/aspose_diagram-for-perl.png" productLink="/diagram/perl/" >}}
 Add MS Visio diagram creation and manipulation capabilities into your applications using Platform Independent Perl Cloud SDK.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Swift" imgSrc="/sdk/aspose_diagram-for-swift.png" productLink="/diagram/swift" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Swift" imgSrc="/sdk/aspose_diagram-for-swift.png" productLink="/diagram/swift/" >}}
 View, upload, convert & export Microsoft Visio files on the cloud using your Swift apps via Cloud REST API.
 {{< /blocks/products/pf/product >}}
 

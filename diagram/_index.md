@@ -11,19 +11,19 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud for cURL" imgSrc="/sdk/aspose_diagram-for-curl.png" productLink="/diagram/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud for cURL" imgSrc="/sdk/aspose_diagram-for-curl.png" productLink="/diagram/curl/" >}}
 Easy calls to REST API via cURL to view, convert, export & upload Microsoft Visio files to cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_diagram-for-net.png" productLink="/diagram/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_diagram-for-net.png" productLink="/diagram/net/" >}}
 View and Convert Microsoft Visio drawings in the cloud without installing any 3rd part software.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Java" imgSrc="/sdk/aspose_diagram-for-java.png" productLink="/diagram/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Java" imgSrc="/sdk/aspose_diagram-for-java.png" productLink="/diagram/java/" >}}
 Java REST SDK to access Microsoft Visio cloud-based drawings & diagrams for viewing & conversion.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/diagram/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/diagram/family/" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
