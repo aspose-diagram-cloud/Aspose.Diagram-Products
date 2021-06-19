@@ -35,7 +35,7 @@ Easy to use Python Cloud SDK to access, view & convert Microsoft Visio diagrams 
 Access Visio drawings & diagrams stored on the cloud for viewing & conversions from within your Ruby cloud apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_diagram-for-node.png" productLink="/diagram/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_diagram-for-node.png" productLink="/diagram/nodejs/" >}}
 Microsoft Visio drawing viewer, converter & uploader application development for the cloud platforms in Node.js via REST API.
 {{< /blocks/products/pf/product >}}
 

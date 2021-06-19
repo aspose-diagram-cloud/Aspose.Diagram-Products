@@ -182,7 +182,7 @@ url: /curl
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/diagram/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Diagram Cloud Product Family?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Diagram Cloud for cURL?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -207,7 +207,7 @@ url: /curl
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}

@@ -8,7 +8,7 @@ url: /android
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="View & Convert Visio Files via Android REST SDK" h2="Develop Microsoft Visio drawing viewer & exporter apps for Android devices using REST API via Cloud SDK." logoImageSrc="/headers/aspose_diagram-for-android.png" pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Android" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Android" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="SDK for Android" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-android.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-android" liveDemosLink="https://products.aspose.app/diagram/family/" >}}
 
@@ -182,7 +182,7 @@ url: /android
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/diagram/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Diagram Cloud Product Family?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Diagram Cloud SDK for Android?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -205,7 +205,7 @@ url: /android
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}

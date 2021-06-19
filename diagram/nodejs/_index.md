@@ -10,9 +10,10 @@ url: /nodejs
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Node.js" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-android" liveDemosLink="https://products.aspose.app/diagram/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-node" liveDemosLink="https://products.aspose.app/diagram/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>Aspose.Diagram Cloud SDK for Node.js assists cloud platform developers to quickly build Microsoft Visio file creation and manipulation cloud-based applications in Node.js. Aspose.Diagram Cloud SDK for Node.js enables your cloud application end-users to read Microsoft Visio files situated on the cloud, view cloud Visio files and convert from Visio formats to other supported formats without installing Microsoft Visio or any other software.</p>
 <p>Aspose.Diagram Cloud SDK for Node.js can be used under an MIT license, while it works as a wrapper around the robust Aspose.Diagram REST API.  The SDK has provided support for several advanced functionalities to manipulate Visio diagrams on a server. It supported features like creating new Visio diagrams, reading an existing Vision drawing, saving Visio diagram to other supported file formats, exporting Visio diagram to PDF,  layout shapes in flowchart style, auto-fit the Visio diagram, insert new shape in Visio diagram, copy shapes from an existing Visio diagram to other diagram,  rotating shape, changing the Position and connecting sub-shapes in Visio diagrams, converting a particular Visio shape and many more</p>
 <p>With few lines of Node.js code, you can export Microsoft Visio files (VSD, VSDX, VSS, VSSX, VTX, VDX, VDW, VST, VSTX, and VSX) to lots of other file formats (XAML, SWF, PDF, XPS, BMP, JPEG, TIFF, EMF, SVG, and PNG) from within your cloud-based Node.js applications developed via Aspose.Diagram Cloud SDK for Node.js.</p>
 {{< /blocks/products/pf/tab-content >}}
@@ -195,7 +196,7 @@ url: /nodejs
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/diagram/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Diagram Cloud Product Family?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Diagram Cloud SDK for Node.js?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -218,7 +219,7 @@ url: /nodejs
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}

@@ -207,7 +207,7 @@ url: /net
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}

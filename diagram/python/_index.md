@@ -10,9 +10,10 @@ url: /python
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Python" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-python.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-android" liveDemosLink="https://products.aspose.app/diagram/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-python.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-python" liveDemosLink="https://products.aspose.app/diagram/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>Aspose.Diagram Cloud SDK for Python is designed by developers for the Python developers of cloud-based applications to read, write and process Microsoft Visio drawings in the cloud.</p>
 <p>Aspose.Diagram Cloud SDK for Python enhances your Python code to create new blank Visio files, view existing Visio diagram stored on the cloud storage, convert Visio cloud drawings from native format to many other supported formats. Aspose.Diagram Cloud SDK for Python allows your cloud-based Python apps to export Visio files (VSD, VSDX, VSS, VSSX, VTX, VDX, VDW, VST, VSTX, and VSX) to image formats (PNG, SVG, EMF, TIFF, BMP & JPEG), export Visio flowcharts to HTML, SWF & XAML, export Visio diagrams to fixed-layouts, such as PDF & XPS.</p>
 <p>Aspose.Diagram Cloud SDK for Python is available for general use under the MIT license. Your cloud-based Python apps won't require the end-users to install Microsoft Visio or any 3rd party software to process the Visio files.</p>
 {{< /blocks/products/pf/tab-content >}}
@@ -204,7 +205,7 @@ url: /python
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}

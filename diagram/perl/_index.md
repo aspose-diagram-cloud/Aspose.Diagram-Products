@@ -10,7 +10,7 @@ url: /perl
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Perl" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-perl.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-dotnet" liveDemosLink="https://products.aspose.app/diagram/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-perl.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-perl" liveDemosLink="https://products.aspose.app/diagram/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Diagram Cloud SDK for Perl helps you enhance your Perl cloud-based applications to create Microsoft Visio drawings in the cloud, without installing any 3rd party software. Using Aspose.Diagram Cloud SDK for Perl enables your C# code to leverage the power of Aspose.Diagram REST API and upload existing Visio files from your local machine to the cloud storage for further operations.</p>
@@ -160,7 +160,7 @@ url: /perl
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}

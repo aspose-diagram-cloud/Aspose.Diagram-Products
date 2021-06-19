@@ -10,10 +10,10 @@ url: /swift
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Swift" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-swift.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-android" liveDemosLink="https://products.aspose.app/diagram/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-swift.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-swift" liveDemosLink="https://products.aspose.app/diagram/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Diagram Cloud SDK for Swift is offered to you under an MIT license and is actually a wrapper around Aspose.Diagram REST API.</p>
+<p>Aspose.Diagram Cloud SDK for Swift assists you in seamlessly enhancing your cloud-based Swift applications to read Microsoft Visio files from cloud storage, view those Visio files within your Swift cloud apps, and also convert and export from Microsoft Visio to various other supported file formats, without requiring any 3rd party software installation.</p>
 <p>Aspose.Diagram Cloud SDK for Swift enables you to export Microsoft Visio file formats (VSD, VSDX, VSS, VSSX, VTX, VDX, VDW, VST, VSTX, and VSX) to the web (HTML), fixed-layout (PDF, XPS), image (BMP, JPEG, TIFF, EMF, SVG, and PNG) and other file formats, such as Macromedia Flash File Format (SWF) & XAML, with only a few lines of Swift code.</p>
 {{< /blocks/products/pf/tab-content >}}
 
@@ -181,7 +181,7 @@ url: /swift
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/diagram/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Diagram Cloud Product Family?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Diagram Cloud SDK for Swift?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -206,7 +206,7 @@ url: /swift
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
     {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}
