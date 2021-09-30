@@ -29,19 +29,19 @@ Java REST SDK to access Microsoft Visio cloud-based drawings & diagrams for view
 
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-net.png" productLink="https://products.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram for " title=".NET" imgSrc="/product-logos/aspose_diagram-for-net.svg" productLink="https://products.aspose.com/diagram/net" >}}
 Develop native .NET desktop applications to create Microsoft Visio diagrams manipulate & process.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png" productLink="https://products.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram for " title="Java" imgSrc="/product-logos/aspose_diagram-for-java.svg" productLink="https://products.aspose.com/diagram/java" >}}
 Read, view & convert multiple Microsoft Visio drawing formats via Java API in your desktop apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram for " title="Node.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png" productLink="https://products.aspose.com/diagram/nodejs-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram for " title="Node.js via Java" imgSrc="/product-logos/aspose_diagram-for-nodejs.svg" productLink="https://products.aspose.com/diagram/nodejs-java" >}}
 Create, Load, Manipulate & Print Microsoft Visio Files via Node.js.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/diagram/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/diagram/family/" innerText="View All On Premise APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
