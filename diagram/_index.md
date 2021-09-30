@@ -6,20 +6,20 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Microsoft Visio File Viewer & Converter Solution" h2="Desktop, On Premise APIs & Cloud REST SDKs to build native, web & cloud-based applications to view & export Visio drawings." logoImageSrc="/headers/aspose_diagram-brand.png" imageAlt="Aspose.Diagram Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Microsoft Visio File Viewer & Converter Solution" h2="Desktop, On Premise APIs & Cloud REST SDKs to build native, web & cloud-based applications to view & export Visio drawings." logoImageSrc="/headers/aspose_diagram-brand.svg" imageAlt="Aspose.Diagram Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud for cURL" imgSrc="/sdk/aspose_diagram-for-curl.png" productLink="/diagram/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud for cURL" imgSrc="/sdk/aspose_diagram-for-curl.svg" productLink="/diagram/curl/" >}}
 Easy calls to REST API via cURL to view, convert, export & upload Microsoft Visio files to cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_diagram-for-net.png" productLink="/diagram/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_diagram-for-net.svg" productLink="/diagram/net/" >}}
 View and Convert Microsoft Visio drawings in the cloud without installing any 3rd part software.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Java" imgSrc="/sdk/aspose_diagram-for-java.png" productLink="/diagram/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram" title="Cloud SDK for Java" imgSrc="/sdk/aspose_diagram-for-java.svg" productLink="/diagram/java/" >}}
 Java REST SDK to access Microsoft Visio cloud-based drawings & diagrams for viewing & conversion.
 {{< /blocks/products/pf/product >}}
 

@@ -6,11 +6,11 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Visio Files Creation & Export via Node.js Cloud SDK" h2="REST API to easily create Microsoft Visio file generation, conversion & exporter cloud-based applications in Node.js via Cloud SDK." logoImageSrc="/headers/aspose_diagram-for-node.png" pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Visio Files Creation & Export via Node.js Cloud SDK" h2="REST API to easily create Microsoft Visio file generation, conversion & exporter cloud-based applications in Node.js via Cloud SDK." logoImageSrc="/headers/aspose_diagram-for-node.svg" pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Node.js" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-node" liveDemosLink="https://products.aspose.app/diagram/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-node.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-node" liveDemosLink="https://products.aspose.app/diagram/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Diagram Cloud SDK for Node.js assists cloud platform developers to quickly build Microsoft Visio file creation and manipulation cloud-based applications in Node.js. Aspose.Diagram Cloud SDK for Node.js enables your cloud application end-users to read Microsoft Visio files situated on the cloud, view cloud Visio files and convert from Visio formats to other supported formats without installing Microsoft Visio or any other software.</p>
@@ -37,7 +37,7 @@ url: /nodejs
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_diagram-for-node.png" alt="Node.js Visio SDK"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_diagram-for-node.svg" alt="Node.js Visio SDK"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -64,7 +64,7 @@ url: /nodejs
 </ul>
 </div>
 <!--/right--></div>
-<div class="d1-logo"><img src="/sdk/aspose_diagram-for-node.png" alt="Node.js Cloud SDK for Visio"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_diagram-for-node.svg" alt="Node.js Cloud SDK for Visio"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -205,24 +205,24 @@ url: /nodejs
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Diagram" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/diagram/curl/" imgSrc="/sdk/aspose_diagram-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/curl/" imgSrc="/sdk/aspose_diagram-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="/sdk/aspose_diagram-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="/sdk/aspose_diagram-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="/sdk/aspose_diagram-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="/sdk/aspose_diagram-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/php/" imgSrc="/sdk/aspose_diagram-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/php/" imgSrc="/sdk/aspose_diagram-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/diagram/android/" imgSrc="/sdk/aspose_diagram-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/diagram/android/" imgSrc="/sdk/aspose_diagram-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.svg" platform="Node.js" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.svg" platform="Swift" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

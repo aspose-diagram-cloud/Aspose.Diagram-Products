@@ -6,11 +6,11 @@ url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Use cURL to Create, View & Convert Visio files in Cloud" h2="Create new Visio drawings or upload existing ones to the cloud storage for viewing & conversion using cURL via REST API." logoImageSrc="/headers/aspose_diagram-for-curl.png" pfName="Aspose.Diagram" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Use cURL to Create, View & Convert Visio files in Cloud" h2="Create new Visio drawings or upload existing ones to the cloud storage for viewing & conversion using cURL via REST API." logoImageSrc="/headers/aspose_diagram-for-curl.svg" pfName="Aspose.Diagram" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="Cloud for cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-curl.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud" liveDemosLink="https://products.aspose.app/diagram/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-curl.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud" liveDemosLink="https://products.aspose.app/diagram/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Diagram Cloud for cURL assists developers to access Microsoft Visio files hosted on the cloud storage. You can also use simple cURL commands via REST API to create new Visio drawings in the cloud. Aspose.Diagram Cloud for cURL also enables you to view, convert and export Microsoft Visio files (VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM) to various other supported file formats (PDF, PDF/A, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, HTML, XAML & SWF).</p>
@@ -37,7 +37,7 @@ url: /curl
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_diagram-for-curl.png" alt="cURL Visio SDK"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_diagram-for-curl.svg" alt="cURL Visio SDK"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -64,7 +64,7 @@ url: /curl
 </ul>
 </div>
 <!--/right--></div>
-<div class="d1-logo"><img src="/sdk/aspose_diagram-for-curl.png" alt="cURL Cloud SDK for Visio"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_diagram-for-curl.svg" alt="cURL Cloud SDK for Visio"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -193,24 +193,24 @@ url: /curl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Diagram" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/diagram/curl/" imgSrc="/sdk/aspose_diagram-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/curl/" imgSrc="/sdk/aspose_diagram-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="/sdk/aspose_diagram-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="/sdk/aspose_diagram-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="/sdk/aspose_diagram-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="/sdk/aspose_diagram-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/php/" imgSrc="/sdk/aspose_diagram-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/php/" imgSrc="/sdk/aspose_diagram-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/diagram/android/" imgSrc="/sdk/aspose_diagram-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/diagram/android/" imgSrc="/sdk/aspose_diagram-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.svg" platform="Node.js" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.svg" platform="Swift" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,11 +6,11 @@ url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Cloud SDK to View & Convert Visio Files in Cloud" h2="Seamlessly integrate Microsoft Visio file generation & manipulation features into your cloud-based Java apps via REST API." logoImageSrc="/headers/aspose_diagram-for-java.png" pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Java Cloud SDK to View & Convert Visio Files in Cloud" h2="Seamlessly integrate Microsoft Visio file generation & manipulation features into your cloud-based Java apps via REST API." logoImageSrc="/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-java.png"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-java" liveDemosLink="https://products.aspose.app/diagram/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-java.svg"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-java" liveDemosLink="https://products.aspose.app/diagram/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Diagram Cloud SDK for Java allows developers to rapidly develop Microsoft Visio file creation, viewer, converter & exporter applications in Java language for the cloud platforms. Aspose.Diagram Cloud SDK for Java enables the end-user of your cloud-based Java apps to access & manipulate their Microsoft Visio files hosted on the cloud storage without installing any 3rd party software.</p>
@@ -37,7 +37,7 @@ url: /java
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_diagram-for-java.png" alt="java Visio SDK"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_diagram-for-java.svg" alt="java Visio SDK"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -64,7 +64,7 @@ url: /java
 </ul>
 </div>
 <!--/right--></div>
-<div class="d1-logo"><img src="/sdk/aspose_diagram-for-java.png" alt="java Cloud SDK for Visio"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_diagram-for-java.svg" alt="java Cloud SDK for Visio"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -193,24 +193,24 @@ url: /java
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Diagram" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/diagram/curl/" imgSrc="/sdk/aspose_diagram-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/curl/" imgSrc="/sdk/aspose_diagram-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="/sdk/aspose_diagram-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="/sdk/aspose_diagram-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="/sdk/aspose_diagram-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="/sdk/aspose_diagram-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/php/" imgSrc="/sdk/aspose_diagram-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/php/" imgSrc="/sdk/aspose_diagram-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/diagram/android/" imgSrc="/sdk/aspose_diagram-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/diagram/android/" imgSrc="/sdk/aspose_diagram-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.svg" platform="Node.js" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.svg" platform="Swift" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

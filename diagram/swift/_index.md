@@ -6,11 +6,11 @@ url: /swift
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Create, View & Export Cloud Visio Files using Swift" h2="REST API to assist you in developing cloud-based apps in Swift to generate, view & convert Microsoft Visio cloud files." logoImageSrc="/headers/aspose_diagram-for-swift.png" pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Create, View & Export Cloud Visio Files using Swift" h2="REST API to assist you in developing cloud-based apps in Swift to generate, view & convert Microsoft Visio cloud files." logoImageSrc="/headers/aspose_diagram-for-swift.svg" pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Swift" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Swift" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-swift.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-swift" liveDemosLink="https://products.aspose.app/diagram/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_diagram-for-swift.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/diagram" directDownloadLink="https://github.com/aspose-diagram-cloud/aspose-diagram-cloud-swift" liveDemosLink="https://products.aspose.app/diagram/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Diagram Cloud SDK for Swift assists you in seamlessly enhancing your cloud-based Swift applications to read Microsoft Visio files from cloud storage, view those Visio files within your Swift cloud apps, and also convert and export from Microsoft Visio to various other supported file formats, without requiring any 3rd party software installation.</p>
@@ -36,7 +36,7 @@ url: /swift
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_diagram-for-swift.png" alt="swift Visio SDK"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Swift</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_diagram-for-swift.svg" alt="swift Visio SDK"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Swift</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -63,7 +63,7 @@ url: /swift
 </ul>
 </div>
 <!--/right--></div>
-<div class="d1-logo"><img src="/sdk/aspose_diagram-for-swift.png" alt="swift Cloud SDK for Visio"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Swift</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_diagram-for-swift.svg" alt="swift Cloud SDK for Visio"><header>Aspose.Diagram</header><footer>Cloud <small> <em>for </em> </small>Swift</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -192,24 +192,24 @@ url: /swift
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Diagram" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/diagram/curl/" imgSrc="/sdk/aspose_diagram-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/curl/" imgSrc="/sdk/aspose_diagram-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="/sdk/aspose_diagram-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="/sdk/aspose_diagram-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="/sdk/aspose_diagram-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="/sdk/aspose_diagram-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/php/" imgSrc="/sdk/aspose_diagram-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/php/" imgSrc="/sdk/aspose_diagram-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/diagram/android/" imgSrc="/sdk/aspose_diagram-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/diagram/android/" imgSrc="/sdk/aspose_diagram-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/python/" imgSrc="/sdk/aspose_diagram-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/ruby/" imgSrc="/sdk/aspose_diagram-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs/" imgSrc="/sdk/aspose_diagram-for-node.svg" platform="Node.js" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.png" platform="Perl" >}}
-    {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.png" platform="Swift" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/perl/" imgSrc="/sdk/aspose_diagram-for-perl.svg" platform="Perl" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/swift/" imgSrc="/sdk/aspose_diagram-for-swift.svg" platform="Swift" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
