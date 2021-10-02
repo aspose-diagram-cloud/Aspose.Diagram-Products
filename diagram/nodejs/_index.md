@@ -6,7 +6,7 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Visio Files Creation & Export via Node.js Cloud SDK" h2="REST API to easily create Microsoft Visio file generation, conversion & exporter cloud-based applications in Node.js via Cloud SDK." logoImageSrc="/headers/aspose_diagram-for-node.svg" pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Visio Files Creation & Export via Node.js Cloud SDK" h2="REST API to easily create Microsoft Visio file generation, conversion & exporter cloud-based applications in Node.js via Cloud SDK." logoImageSrc="/headers/aspose_diagram-for-nodejs.svg" pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="Cloud SDK for Node.js" >}}
 
